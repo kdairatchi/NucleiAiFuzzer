@@ -33,7 +33,7 @@
 2. **Clone this Repository**  
    ```bash
    git clone https://github.com/kdairatchi/NucleiAiFuzzer.git
-   cd <repo_name>
+   cd NucleiAiFuzzer
    ```
 3. **Make the Script Executable**  
    ```bash
