@@ -1,6 +1,6 @@
 # NucleiAiFuzzer
 # Nuclei AI Scanning Script by Kdairatchi
-(Nuclei-AI-Prompts)[https://github.com/reewardius/Nuclei-AI-Prompts]
+[Nuclei-AI-Prompts](https://github.com/reewardius/Nuclei-AI-Prompts)
 **fuzzer.sh** is a comprehensive Bash script leveraging [Nuclei’s](https://github.com/projectdiscovery/nuclei) **AI-based scanning feature** (`-ai`) for automated reconnaissance and vulnerability detection. It reads from a curated list of queries grouped by category in `ai_queries.txt`, prompting the user to select which categories to run, then automatically scanning the specified targets.  
 
 ![Nuclei AI Screenshot](https://user-images.githubusercontent.com/placeholder/screenshot.png)  
